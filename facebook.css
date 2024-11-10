@@ -1,0 +1,40 @@
+body{
+    background-color: #f2f4f7;
+}
+
+#topbody{
+    background-color: #f2f4f7;
+    height: 600px;
+}
+
+.lowerbody{
+    background: white;
+    height: 200px;
+    
+}
+
+#fb{
+    color: blue;
+    font-weight: bolder;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 60px;
+}
+
+.fb{
+    height: 150px;
+    width: 270px;
+    margin-left: 500px;
+}
+
+#form{
+    background-color: white;
+    height: 400px;
+    width: 500px;
+    margin-top: -25px;
+    margin-left: 400px;
+    border-radius: 3%;
+    border-color: blue;
+    border-width: 2px;
+    border-style: solid;
+}
