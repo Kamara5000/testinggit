@@ -1,0 +1,39 @@
+
+p {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#hello{
+    color: blue;
+}
+
+.bro{
+    color: yellowgreen;
+    text-align: right;
+    font: bolder
+}
+
+h2.bro{
+    text-transform: capitalize;
+    color: blueviolet;
+}
+
+/* #brother{
+    background-color: chocolate;
+} */
+
+div{
+    background-color: red;
+}
+
+#sisters{
+    background-color: black;
+    color: white;
+}
+
+#bs{
+    color: blueviolet;
+}
